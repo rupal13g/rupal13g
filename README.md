@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @rupal13g
-- 👀 I’m interested in VLSI domain
-- 🌱 I’m currently learning SystemVerilog
-- 💞️ I’m looking to collaborate on Verilog projects
 - To contact me, kindly mail me @ rupalgupta024@gmail.com
 
 <!---
