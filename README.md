@@ -8,19 +8,17 @@ Turning data into business insights
 
 Technologies that I work on
 
--> SQL Server
--> Python
--> PostgreSQL
--> Airflow
--> Azure
--> Docker
--> Git
--> dbt
--> Power BI
--> Pandas
--> Spark
-
-<h3 align="center">A passionate frontend developer from India</h3>
+SQL Server
+Python
+PostgreSQL
+Airflow
+Azure
+Docker
+Git
+dbt
+Power BI
+Pandas
+Pyspark
 
 <h3 align="left">Connect with me via email:</h3>
 <p align="left">
