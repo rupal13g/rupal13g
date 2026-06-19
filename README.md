@@ -1,6 +1,5 @@
-Hi, I'm Rupal Gupta
-
-Data Engineer | SQL Specialist | Data Warehousing
+<h1 align="center">Hi, I'm Rupal Gupta</h1>
+<h2 align="center">Data Engineer | SQL Specialist | Data Warehousing</h2>
 
 -------------------------------------------------------------------------------------
 
