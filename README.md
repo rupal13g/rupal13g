@@ -1,33 +1,188 @@
-<h1 align="center">Hi, I'm Rupal Gupta</h1>
-<h2 align="center">Data Engineer | SQL Specialist | Data Warehousing</h2>
+<h1 align="center">Hi 👋, I'm Rupal Gupta</h1>
 
+<h3 align="center">
+Data Engineer | SQL Specialist | Data Warehousing & Analytics
+</h3>
 
-Building reliable data pipelines
-Designing scalable data warehouses
-Turning data into business insights
+<p align="center">
+<a href="https://www.linkedin.com/in/rupal-gupta-10770617a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Technologies that I work on
-
-SQL Server
-Python
-PostgreSQL
-Airflow
-Azure
-Docker
-Git
-dbt
-Power BI
-Pandas
-Pyspark
-
-<h3 align="left">Connect with me via email:</h3>
-<p align="left">
-  rupalgupta024@gmail.com
+<a href="mailto:rupalgupta024@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+- Building scalable data pipelines and analytics solutions
+- Passionate about data modeling and warehouse design
+- Interested in modern data platforms and cloud architectures
+- Exploring orchestration, data quality, and distributed processing
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Engineering
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+### Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Streaming
+
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+---
+
+## 📊 Current Focus
+
+```text
+✔ Data Warehousing
+✔ ETL / ELT Pipelines
+✔ Airflow Orchestration
+✔ Azure Data Services
+✔ Data Quality Engineering
+```
+
+---
+
+<!---
+## ⭐ Featured Projects
+
+### Retail Analytics Platform
+
+End-to-end data warehouse project.
+
+Tech:
+- Python
+- SQL Server
+- Airflow
+- Docker
+
+Highlights:
+- Star Schema Design
+- Incremental Loads
+- Data Quality Checks
+- Business Metrics Layer
+
+---
+
+### Airflow Data Platform
+
+Production-style orchestration project.
+
+Highlights:
+- DAG Scheduling
+- Retry Logic
+- Logging
+- Monitoring
+
+---
+
+### SQL Performance Engineering
+
+Collection of real-world SQL optimization techniques.
+
+Topics:
+- Indexing Strategies
+- Execution Plans
+- Query Tuning
+- Partitioning
+
+---
+
+### Azure Data Warehouse
+
+Cloud-native analytics platform.
+
+Highlights:
+- Data Lake
+- Transformation Layer
+- Warehouse Layer
+- Reporting Layer
+
+---
+--->
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rupal13g&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupal13g&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rupal13g&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📉 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupal13g&theme=tokyo-night)]()
+
+---
+
+## 📚 Currently Learning
+
+- Apache Kafka
+- Apache Spark
+- Hadoop Ecosystem
+- Azure Data Factory
+- Delta Lake
+- Advanced Data Modeling
+
+---
+
+## 📝 Data Engineering Principles
+
+```text
+Design for scalability.
+Automate repetitive work.
+Model data for analytics.
+Monitor everything.
+Document decisions.
+```
+
+---
+
+## 🤝 Connect
+
+LinkedIn: https://www.linkedin.com/in/rupal-gupta-10770617a
+
+Email: rupalgupta024@gmail.com
 
 <!---
 rupal13g/rupal13g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
