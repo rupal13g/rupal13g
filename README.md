@@ -180,9 +180,9 @@ Document decisions.
 
 ## 🤝 Connect
 
-LinkedIn: https://www.linkedin.com/in/rupal-gupta-10770617a
+LinkedIn: <a href="https://www.linkedin.com/in/rupal-gupta-10770617a">LinkedIn</a>
 
-Email: rupalgupta024@gmail.com
+Email: <a href="mailto:rupalgupta024@gmail.com">Email</a>
 
 <!---
 rupal13g/rupal13g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
