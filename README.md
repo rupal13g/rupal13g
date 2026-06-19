@@ -1,4 +1,4 @@
-Hi, I'm [Your Name]
+Hi, I'm Rupal Gupta
 
 Data Engineer | SQL Specialist | Data Warehousing
 -------------------------------------------------------------------------------------
